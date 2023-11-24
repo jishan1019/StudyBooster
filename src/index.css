@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.btnPrimary {
+  background-color: #f27a44;
+}
+
+.bgPrimary {
+  background-color: #f27a44;
+}
